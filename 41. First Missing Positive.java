@@ -17,6 +17,7 @@ public class Solution {
             if (nums[i] != i + 1) {
                 return i + 1; // The first missing positive number
             }
+            
         }
 
         return n + 1; // If all positions are correctly filled
