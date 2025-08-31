@@ -1,3 +1,5 @@
+
+
 public class Solution {
     public String multiply(String num1, String num2) {
         // Edge case: if either number is "0", the product is "0"
